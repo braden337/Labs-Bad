@@ -5,6 +5,7 @@
   - [Organization](#organization)
   - [Submitting](#submitting)
   - [Rebase with `master`](#rebase-with-master)
+- [Lab 1: FizzBuzz](#lab-1-fizzbuzz)
 
 # Example Labs
 
@@ -88,4 +89,27 @@ git pull
 git checkout braden-work
 git rebase master
 git push -f
+```
+
+# Lab 1: FizzBuzz
+
+From 1 to 100:
+
+- print Fizz for numbers that are divisible 3
+- print Buzz for numbers that are divisible by 5
+- print FizzBuzz for numbers that are divisible by 3 and 5
+- otherwise print the number
+
+Example for 7 to 15:
+
+```text
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
 ```
