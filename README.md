@@ -6,6 +6,7 @@
   - [Submitting](#submitting)
   - [Rebase with `master`](#rebase-with-master)
 - [Lab 1: FizzBuzz](#lab-1-fizzbuzz)
+- [Lab 2: FizzBuzz (continued)](#lab-2-fizzbuzz-continued)
 
 # Example Labs
 
@@ -113,3 +114,10 @@ Fizz
 14
 FizzBuzz
 ```
+
+# Lab 2: FizzBuzz (continued)
+
+View my solution to Lab 1 in the `Solutions/` folder.
+
+Modify your FizzBuzz program from Lab 1 to _count down from 100_ instead of
+counting up to 100.
