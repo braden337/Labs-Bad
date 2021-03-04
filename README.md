@@ -37,7 +37,7 @@ again but append `-work`.
 
 ```shell
 git checkout -b firstname-work
-git push -u firstname-work
+git push -u origin firstname-work
 ```
 
 This is where you will do all of your work for each lab, so you can now delete
